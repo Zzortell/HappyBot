@@ -1,0 +1,16 @@
+{
+    "name": "zz/happy-bot",
+    "type": "project",
+    "require": {
+        "coderstephen/slack-client": "^0.3.0",
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "authors": [
+        {
+            "name": "Rémi Blaise",
+            "email": "remi.blaise@gmx.fr"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
